@@ -47,7 +47,9 @@
   ],
   "preservationActionName": "MD5 Checksum Validation Using md5sum",
   "tool": {
-    "toolID": "md5sum",
+    "id": {
+      "guid": "52193960-1203-431d-b443-ea0feaf082fa"
+    },
     "toolName": "md5sum"
   },
   "type": {
